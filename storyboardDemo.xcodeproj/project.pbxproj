@@ -14,6 +14,7 @@
 		6373978E2110820C00B102AA /* PlayersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6373978D2110820C00B102AA /* PlayersTableViewController.swift */; };
 		637397902110826A00B102AA /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6373978F2110826A00B102AA /* Player.swift */; };
 		637397952110836800B102AA /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637397942110836800B102AA /* SampleData.swift */; };
+		637397972111349900B102AA /* PlayerCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637397962111349900B102AA /* PlayerCellTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6373978D2110820C00B102AA /* PlayersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayersTableViewController.swift; sourceTree = "<group>"; };
 		6373978F2110826A00B102AA /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		637397942110836800B102AA /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		637397962111349900B102AA /* PlayerCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCellTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				6373978D2110820C00B102AA /* PlayersTableViewController.swift */,
 				6373978F2110826A00B102AA /* Player.swift */,
 				637397942110836800B102AA /* SampleData.swift */,
+				637397962111349900B102AA /* PlayerCellTableViewCell.swift */,
 			);
 			path = storyboardDemo;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				637397902110826A00B102AA /* Player.swift in Sources */,
 				6337A0EA2106AA7900BEE35F /* ViewController.swift in Sources */,
+				637397972111349900B102AA /* PlayerCellTableViewCell.swift in Sources */,
 				6337A0E82106AA7900BEE35F /* AppDelegate.swift in Sources */,
 				637397952110836800B102AA /* SampleData.swift in Sources */,
 				6373978E2110820C00B102AA /* PlayersTableViewController.swift in Sources */,
